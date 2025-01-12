@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa!</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
-<img width="200" align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="mustafak01" />
 
 - 🔭 I’m currently working on **[route-man](https://github.com/MustafaK01/route-man)**
 
